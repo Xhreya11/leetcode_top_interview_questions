@@ -2,29 +2,35 @@ class Solution {
 public:
     string reverseWords(string s) {
 
-        vector<string> arr;
-
-        string word ="";
-        string ans="";
-
-        for(auto i: s){
-            if( i != ' ')
-                word +=i;
-            else {
-                if(!word.empty())
-                arr.push_back(word);
-                word = "";
-            }
+    int left = 0;
+    int right = s.length()-1;
+    while(s[left] == ' ')left++;
+    while(s[right] == ' ')right--;
+    
+    string temp="";
+    string ans="";
+    
+    //Iterate the string and keep on adding to form a word
+    //If empty space is encountered then add the current word to the result
+    while (left <= right) {
+        while(left>0 && left<right && s[left] == ' ' && s[left + 1] == ' ')left++;
+        char ch= s[left];
+        if (ch != ' ') {
+            temp += ch;
+        } else if (ch == ' ') {
+            if (ans!="") ans = temp + " " + ans;
+            else ans = temp;
+            temp = "";
         }
-        if(!word.empty())
-        arr.push_back(word);
-
-        for(int i=arr.size() - 1; i>0; i--){
-            ans+=  arr[i];
-            ans+=" ";
-        }
-        ans+=arr[0];
-
-        return ans;
+        left++;
+    }
+    
+    //If not empty string then add to the result(Last word is added)
+    if (temp!="") {
+        if (ans!="") ans = temp +" "+ ans;
+        else ans = temp;
+    }
+    
+    return ans;  
     }
 };
