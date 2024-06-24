@@ -25,15 +25,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0547-number-of-provinces) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0547-number-of-provinces) |
 # Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0547-number-of-provinces) |
 # Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0200-number-of-islands) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0547-number-of-provinces) |
