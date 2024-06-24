@@ -1,23 +1,19 @@
 class Solution {
     void dfs(int row, int col, vector<vector<char>>& grid, int n, int m, vector<vector<bool>>& vis){
-
-        if(row>=n || row<0 || col>=m || col<0 || vis[row][col] || grid[row][col] == '0') return;
         vis[row][col] = true;
-        dfs(row+1, col, grid, n, m, vis);
-        dfs(row-1, col, grid, n, m, vis);
-        dfs(row, col-1, grid, n, m, vis);
-        dfs(row, col+1, grid, n, m, vis);
+        int drow[4]={-1,0,1,0};
+        int dcol[4]={0,1,0,-1};
 
-        // int drow[4]={-1,0,1,0};
-        // int dcol[4]={0,1,0,-1};
-        // for(int i=0; i<4; i++){   
-        //         int nrow = row + drow[i];
-        //         int ncol = col + dcol[i];
-        //         {
-        //             vis[nrow][ncol] = true;
-        //             dfs(nrow, ncol, grid, n, m, vis);
-        //     }
-        // }
+        for(int i=0; i<4; i++){
+            
+                int nrow = row + drow[i];
+                int ncol = col + dcol[i];
+                if(nrow<n && nrow>=0 && ncol<m && ncol>=0 && !vis[nrow][ncol] && grid[nrow][ncol] == '1'){
+                    vis[nrow][ncol] = true;
+                    dfs(nrow, ncol, grid, n, m, vis);
+                
+            }
+        }
     }
 public:
     int numIslands(vector<vector<char>>& grid) {
