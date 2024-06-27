@@ -51,4 +51,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Database
 |  |
 | ------- |
+| [1258-article-views-i](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1908-recyclable-and-low-fat-products) |
