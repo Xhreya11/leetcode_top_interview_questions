@@ -53,3 +53,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1258-article-views-i](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1153-product-sales-analysis-i) |
+<!---LeetCode Topics End-->
