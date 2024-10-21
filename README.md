@@ -59,4 +59,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1153-product-sales-analysis-i) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
