@@ -62,10 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
