@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0078-subsets) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,4 +76,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1468-check-if-n-and-its-double-exist) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Xhreya11/leetcode_top_interview_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
